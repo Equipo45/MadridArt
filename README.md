@@ -1,2 +1,2 @@
-# MadridConvalidator
-API for getting information about convalidations between universities in Madrid
+# MadridArt
+A web page for selling and searching ART in Madrid
